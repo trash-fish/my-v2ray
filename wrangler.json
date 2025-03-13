@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "my-v2ray",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "c8edfb2a-c46c-4457-9969-aadd63a4c8f9",
+      "database_name": "my-v2ray"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
